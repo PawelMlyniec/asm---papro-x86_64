@@ -2,8 +2,8 @@
 
 Interactive program drawing Barnsley fern where user can change propabilites of affine transformations in  w asm x86__64
 
-##  What id Barnsley fern
- Barnsley fern is a fractal is one of the basic examples of self-similar sets, i.e. it is a
+##  What is Barnsley fern?
+ Barnsley fern is a fractal, one  of the basic examples of self-similar sets, i.e. it is a
  mathematically generated pattern that can be reproducible at any magnification or reduction. 
  Barnsley's fern uses four affine transformations. The formulas are:
  ![screenshot_2018-10-26 barnsley fern - wikipedia](https://user-images.githubusercontent.com/37669901/47554334-6491a600-d909-11e8-8396-31738f717abf.png)
